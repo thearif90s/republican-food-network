@@ -1,3 +1,35 @@
 body{
     font-family: 'Poppins', sans-serif;
+
+}
+.flexibale{
+    display: flex;
+    padding:10px;
+}
+.half-width{
+    width: 50%;
+    padding-top: 10%;
+}
+.golden{
+    color: goldenrod;
+}
+h1{
+    font-size: 60px;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    background: linear-gradient(gold, green);
+    border-radius: 20px;
+}
+#picture{
+    padding: 5%;
+    padding-top: 10px;
+}
+.baner{
+    background-image: url(food-network-main/images/shapes/7.png);
+    background-repeat: no-repeat;
+    padding: 10px ;
+    margin-bottom: 20%;
 }
